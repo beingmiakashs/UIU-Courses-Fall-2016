@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1073378762115",
+    "firebase_url": "https://fir-projectuiufall2016.firebaseio.com",
+    "project_id": "fir-projectuiufall2016",
+    "storage_bucket": "fir-projectuiufall2016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073378762115:android:e773103964a61b0d",
+        "android_client_info": {
+          "package_name": "sa.com.sixthlecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073378762115-7agjsnen154u90u0g2tti7clcqeb6rh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7F5j4ZHk55uZz3N94CQp9Mf8pmM2gZ_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
